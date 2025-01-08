@@ -7,7 +7,7 @@ workflows:
   - id: zi0qnk0ztwi
     name: post_image_generator_api.json
     file: linkedin_post_generation/post_image_generator_api.json
-    version: 2
+    version: 3
     description: ''
     inputs:
       - path: 19.inputs.string
@@ -60,4 +60,4 @@ normal_workflows:
   - id: c21ygp8ggro
     name: post_image_generator.json
     file: linkedin_post_generation/post_image_generator.json
-    version: 2
+    version: 3
